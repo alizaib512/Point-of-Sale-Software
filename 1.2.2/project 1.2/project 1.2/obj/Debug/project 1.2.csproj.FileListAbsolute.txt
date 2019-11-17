@@ -1,0 +1,76 @@
+C:\Users\Test\Desktop\project 1.2\project 1.2\bin\Debug\project 1.2.exe.config
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project_1._2.Form1.resources
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project_1._2.Properties.Resources.resources
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.GenerateResource.Cache
+C:\Users\Test\Desktop\project 1.2\project 1.2\bin\Debug\project 1.2.exe
+C:\Users\Test\Desktop\project 1.2\project 1.2\bin\Debug\project 1.2.pdb
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project 1.2.exe
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project 1.2.pdb
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project 1.2.csprojAssemblyReference.cache
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project_1._2.Form1.resources
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project_1._2.Properties.Resources.resources
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.GenerateResource.cache
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.CoreCompileInputs.cache
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project 1.2.exe
+H:\C# practice\project 1.2\project 1.2\obj\Debug\project 1.2.pdb
+H:\C# practice\project 1.2\project 1.2\bin\Debug\project 1.2.exe.config
+H:\C# practice\project 1.2\project 1.2\bin\Debug\project 1.2.exe
+H:\C# practice\project 1.2\project 1.2\bin\Debug\project 1.2.pdb
+C:\Users\Test\Desktop\project 1.2\project 1.2\obj\Debug\project 1.2.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\bin\Debug\project 1.2.exe.config
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project 1.2.exe
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project 1.2.pdb
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\bin\Debug\project 1.2.exe
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\bin\Debug\project 1.2.pdb
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project 1.2.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project_1._2.Form1.resources
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project_1._2.Properties.Resources.resources
+C:\Users\Test\Desktop\final\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.GenerateResource.Cache
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\project 1.2.exe.config
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\project 1.2.exe
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\project 1.2.pdb
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.Form1.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.Properties.Resources.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.GenerateResource.cache
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.CoreCompileInputs.cache
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.exe
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.pdb
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.Form1Login.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.FormSignup.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.Form2.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.csprojAssemblyReference.cache
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.Form3.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.formlist.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.formAdd.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.formCategory.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.formCategoryList.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.formProduct.resources
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project_1._2.fromProductLsit.resources
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\MetroFramework.Design.dll
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\MetroFramework.dll
+H:\C# practice\final\project 1.2\project 1.2\bin\Debug\MetroFramework.Fonts.dll
+H:\C# practice\final\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.CopyComplete
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\project 1.2.exe.config
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\project 1.2.exe
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\project 1.2.pdb
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\MetroFramework.Design.dll
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\MetroFramework.dll
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\bin\Debug\MetroFramework.Fonts.dll
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.csprojAssemblyReference.cache
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.Form1.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.Form1Login.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.Form2.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.Form3.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.formAdd.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.formCategory.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.formCategoryList.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.formlist.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.formProduct.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.FormSignup.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.fromProductLsit.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project_1._2.Properties.Resources.resources
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.GenerateResource.cache
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.CoreCompileInputs.cache
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.csproj.CopyComplete
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.exe
+H:\C# practice\final\1.2.2\project 1.2\project 1.2\obj\Debug\project 1.2.pdb

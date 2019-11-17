@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Connection" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-4DB2DSO;Initial Catalog=Connection;Integrated Security=True" SettingsObjectName="project_1._2.Properties.Settings" SettingsPropertyName="ConnectionConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Login" Member="tbl_Logins">
+    <Type Name="tbl_Login">
+      <Column Name="username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="password" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="repassword" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
